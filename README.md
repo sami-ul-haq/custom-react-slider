@@ -1,5 +1,5 @@
 # Custom React Slider
-`
+```
 import React, { useState } from 'react'; import albumdata from "../data";
 
 const Home = () => {
@@ -43,4 +43,4 @@ return (
 
 export default Home;
 
-`
+```
